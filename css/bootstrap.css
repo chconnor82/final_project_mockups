@@ -305,7 +305,7 @@ figure {
   margin: 0;
 }
 img {
-  vertical-align: left;
+  vertical-align: center;
 }
 .img-responsive,
 .thumbnail > img,
@@ -367,6 +367,8 @@ h6,
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
+  text-align: justify;
+  margin-right: 25px;
 }
 h1 small,
 h2 small,
@@ -739,6 +741,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
 }
 @media (min-width: 768px) {
   .container {
@@ -2084,6 +2087,8 @@ fieldset[disabled] .btn-default.active {
   color: #fff;
   background-color: #428bca;
   border-color: #357ebd;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -2207,6 +2212,8 @@ fieldset[disabled] .btn-info.active {
   color: #fff;
   background-color: #f0ad4e;
   border-color: #eea236;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -2248,6 +2255,8 @@ fieldset[disabled] .btn-warning.active {
   color: #fff;
   background-color: #d9534f;
   border-color: #d43f3a;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .btn-danger:hover,
 .btn-danger:focus,
