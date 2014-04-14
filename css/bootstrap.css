@@ -2211,7 +2211,7 @@ fieldset[disabled] .btn-info.active {
 }
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
+  background-color: #428bca;
   border-color: #eea236;
   margin-left: 100px;
   margin-right: 100px;
@@ -2254,7 +2254,7 @@ fieldset[disabled] .btn-warning.active {
 }
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
+  background-color: #428bca;
   border-color: #d43f3a;
   margin-left: 100px;
   margin-right: 100px;
@@ -4378,8 +4378,8 @@ a.list-group-item.active > .badge,
 .jumbotron {
   padding: 30px;
   margin-bottom: 30px;
-  color: inherit;
-  background-color: #eee;
+  color: #0000;
+  background-color: #FFF;
 }
 .jumbotron h1,
 .jumbotron .h1 {
